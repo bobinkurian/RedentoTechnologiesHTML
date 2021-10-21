@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Top Engineering Design Services & Drafting Company</title>
+	<meta name="description" content="We are a dynamic Mechanical Drafting and Engineering Design Services Company serving clients across 20+ countries and execute projects at competitive rates.">
+	<link rel="canonical" href="https://www.teslamechanicaldesigns.com">
+	<link rel="alternate" href="https://www.teslamechanicaldesigns.com/" hreflang="en-us" />
+	<link rel="alternate" href="https://www.teslamechanicaldesigns.com/" hreflang="en-gb" />
+
+	<!-- OpenGraph Starts-->
+		<meta property="og:title" content="Top Engineering Design Services & Drafting Company">
+		<meta property="og:description" content="A Dynamic company providing Mechanical Drafting and Engineering Design Services globally at a competitive rate">
+		<meta property="og:url" content="https://www.teslamechanicaldesigns.com">
+		<meta property="og:type" content="website">
+		<meta property="og:site_name" content="Tesla Mechanical Designs">
+		<meta property="og:image" content="https://www.teslamechanicaldesigns.com/images/logo-tesla.jpg">
+	<!--OpenGraph Ends-->
+
+	<link rel="icon" href="images/tesla.ico" sizes="16x16">
+<!-- Google Site Verification code -->
+<meta name="google-site-verification" content="mAhMbQ3w3MU1DdBQxqn3Qrt53qugOMeqT8WKjSf2N6s" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="alternate" href="https://www.teslamechanicaldesigns.com" hreflang="en-us" />
+</head>
+<body>
+	
+<div class="main-website">
+<header>	
+	<div class="topheader">
+		<div class="headerwhite">
+			<div class="container1146"><span class="callheader"><a href="tel:04169079430">USA:416 907 9430 </a> <a href="tel:03330119045"> UK:033 3011 9045 </a> <a href="tel:0386521136"> AU:038 652 1136 </a> <a href="tel:+917940399940">India: +91 79 4039 9940</a> </span>
+			<a href="" data-toggle="modal" data-target="#myModal" class="header_mail">info@teslamechanicaldesigns.com</a>  <a href="contact-us.php" class="topbtn">Get a Quote</a></div>
+		</div>
+		<div class="container1146">
+			<div class="headerlogo">
+				<a href="/"><img src="images/logo-TMD-white.svg" alt="Site Logo"></a>
+			</div>
+			<div class="middelheader">
+		        <nav>
+			        <label for="drop" class="toggle menumaintogal"><img src="images/menu.png" alt="menu"></label>
+			        <input type="checkbox" id="drop" />
+			            <ul class="menu">
+			                <li><a href="/">Home</a></li>
+			                <li><a href="about-us.php">About Us</a></li>
+			                <li>
+			                <label for="drop-2" class="toggle">Services +</label>
+			                <a href="#" class="dis">Services</a>
+			                <input type="checkbox" id="drop-2"/>
+			                <ul>
+			                    <li><a href="3d-modeling-services.php">3D Modeling Services</a></li>
+			                    <li><a href="mechanical-drafting-services.php">Mechanical Drafting Services </a></li>
+			                    <li><a href="product-design-services.php">Product Design Services</a></li>
+			                    <li><a href="mechanical-design-services.php">Mechanical Design Services</a></li>
+				                <li><a href="reverse-engineering.php">Reverse Engineering Services</a></li>
+				                <li><a href="sheet-metal-design-services.php">Sheet Metal Design Services</a></li>
+				                <li>      
+				                    <label for="drop-4" class="toggle flotr">+</label>
+				                    <a href="mechanical-engineering-analysis-services.php">Mechanical Engineering Analysis Services</a>         
+				                    <input type="checkbox" id="drop-4"/>
+				                    <ul>
+				                        <li><a href="computational-fluid-dynamics.php">Computational Fluid Dynamics Services</a></li>
+										<li><a href="finite-element-analysis.php">Finite Element Analysis Services</a></li>
+				                    </ul>
+			                    </li>
+			                    <!--<li><a href="millwork-drafting-services.php">Millwork Drafting Services</a></li>-->
+			                </ul>
+			                </li>
+			                <!--<li><a href="projects.php">Projects</a></li>-->
+			                <li>      
+			                    <label for="drop-5" class="toggle">Resource +</label>
+			                    <a href="#" class="dis">Resource</a>         
+			                    <input type="checkbox" id="drop-5"/>
+			                    <ul>
+			                        <li><a href="/blog">Blog</a></li>
+									<li><a href="infographics.php">Infographics</a></li>
+			                    </ul>
+		                    </li>
+			                <li><a href="contact-us.php">Contact Us</a></li>
+			            </ul>
+			        </nav>
+			</div>
+		</div>
+	</div>
+</header>	<section class="banner w100">
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		  <!-- Indicators -->
+		  <ol class="carousel-indicators">
+		    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		    <li data-target="#myCarousel" data-slide-to="1"></li>
+		    <li data-target="#myCarousel" data-slide-to="2"></li>
+		    <li data-target="#myCarousel" data-slide-to="3"></li>
+		    <li data-target="#myCarousel" data-slide-to="4"></li>
+		  </ol>
+		  <!-- Wrapper for slides -->
+		  <div class="carousel-inner" role="listbox">
+		    <div class="item active">
+		      <img src="images/banner_3d.jpg" width="100%" alt="banner1">
+
+		      <div class="bannertext2">
+					<div class="counter1300	bannertoptext">
+						<div class="col-md-5 col-sm-5">
+							<img src="images/3d-banner.png" alt="banner_3D">
+						</div>
+						<div class="col-md-7 col-sm-7">
+							<div class="banner-right">
+								<div class="bannertitles">Mechanical 3D Modeling Services</div>
+								<p>Mechanical 3D Modeling Services creates detailed and accurate 3D models, drawings and specifications that aid in the design and manufacturing of the mechanical products, parts and assemblies.</p>
+								<a href="3d-modeling-services.php">VIEW SERVICE</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		    </div>
+
+		    <div class="item">
+		      <img src="images/banner-drafting.jpg" width="100%" alt="banner2">
+		      <div class="bannertext2">
+					<div class="counter1300	bannertoptext">
+						<div class="col-md-5  col-sm-5">
+							<img src="images/md-banner.png" alt="Mechanical CAD Drafting Services">
+						</div>
+						<div class="col-md-7 col-sm-7">
+							<div class="banner-right">
+								<div class="bannertitles">Mechanical CAD Drafting Services</div>
+								<p>Mechanical CAD Drafting Services provides technical drawings from the CAD Software that tells about how a mechanism is assembled and how it will function for part, component, or product modeling.</p>
+								<a href="mechanical-drafting-services.php">VIEW SERVICE</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		    </div>
+
+		    <div class="item">
+		      <img src="images/banner-pro.jpg" width="100%" alt="banner3">
+		      <div class="bannertext2">
+					<div class="counter1300	bannertoptext">
+						<div class="col-md-5 col-sm-5">
+							<img src="images/pro-banner.png" alt="Product Design Services">
+						</div>
+						<div class="col-md-7 col-sm-7">
+							<div class="banner-right">
+								<div class="bannertitles">Product Design Services</div>
+								<p>Product Design Services is the process of developing a new product that fulfills the requirement of the client to understand their vision of the product conception and implement it as a feasible design.</p>
+								<a href="product-design-services.php">VIEW SERVICE</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		    </div>
+
+		    <div class="item">
+		      <img src="images/banner_sheet.jpg" width="100%" alt="banner4">
+		      <div class="bannertext2">
+					<div class="counter1300	bannertoptext">
+						<div class="col-md-5 col-sm-5">
+							<img src="images/sheet-banner.png" alt="Sheet Metal Design Services">
+						</div>
+						<div class="col-md-7 col-sm-7">
+							<div class="banner-right">
+								<div class="bannertitles">Sheet Metal Design Services</div>
+								<p>Sheet Metal Design Services is made for the manufacturers to create actual objects such as HVAC systems, enclosures, signs, etc. which is compliant with the industry standard and improves the productivity of sheet designing.</p>
+								<a href="sheet-metal-design-services.php">VIEW SERVICE</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		    </div>
+
+		    <div class="item">
+		      <img src="images/banner_re.jpg" width="100%" alt="banner5">
+		      <div class="bannertext2">
+					<div class="counter1300	bannertoptext">
+						<div class="col-md-5 col-sm-5">
+							<img src="images/reverse.png" alt="Reverse Engineering Services">
+						</div>
+						<div class="col-md-7 col-sm-7">
+							<div class="banner-right">
+								<div class="bannertitles">Reverse Engineering Services</div>
+								<p>Reverse Engineering Services creates the design drawings from actual objects by taking a manual measurement or by scanning the product with laser scanners.</p>
+								<a href="reverse-engineering.php">VIEW SERVICE</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		    </div>
+
+		  </div>
+		</div>
+
+		
+	</section>
+	<section class="w100 whybg">
+		<div class="counter1300 text-center">
+			<div class="title">Why Tesla Mechanical Designs?</div>
+			<div class="col-md-2 col-xs-6 col-sm-4">
+				<div class="why_box border"><span class="w100"><img src="images/w1.png" alt="Effective Communication"></span>Effective<br>Communication</div>
+			</div>
+			<div class="col-md-2 col-xs-6 col-sm-4">
+				<div class="why_box border"><span class="w100"><img src="images/w2.png" alt="Compliance to Data Security"></span>Compliance to<br>Data Security</div>
+			</div>
+			<div class="col-md-2 col-xs-6 col-sm-4">
+				<div class="why_box border"><span class="w100"><img src="images/w3.png" alt="Cost-effective Solutions"></span>Cost-effective<br>Solutions</div>
+			</div>
+			<div class="col-md-2 col-xs-6 col-sm-4">
+				<div class="why_box border"><span class="w100"><img src="images/w4.png" alt="Accurate Designs with High-quality"></span>Accurate Designs<br>with High-quality</div>
+			</div>
+			<div class="col-md-2 col-xs-6 col-sm-4">
+				<div class="why_box border"><span class="w100"><img src="images/w5.png" alt="Excellence in precision"></span>Excellence<br>in precision</div>
+			</div>
+			<div class="col-md-2 col-xs-6 col-sm-4">
+				<div class="why_box border"><span class="w100"><img src="images/w6.png" alt="Conformity to Industry Standards"></span>Conformity to<br>Industry Standards</div>
+			</div>
+		</div>
+	</section>
+	<section class="w100 pt100 about_bgs">
+		<div class="counter1300 wow bounceInUp">
+			<div class="w100">
+				<div class="w35_about">
+					<img src="images/Untitled-2.png" class="w100" alt="Product Modeling">
+				</div>
+				<div class="w65_about">
+					<h1 class="about_titles">Engineer your way to success with cost-effective Engineering Design Services.</h1>
+					<div class="abouttext">
+						Tesla Mechanical Designs is a leading <a href="https://www.teslamechanicaldesigns.com/mechanical-design-services.php"><strong>CAD Design Services</strong></a> and Engineering Design Services Company that offers Mechanical Drafting Services, Product Design Services, Sheet Metal Design Services and Mechanical <a href="https://www.teslamechanicaldesigns.com/3d-modeling-services.php">3D Modeling Services</a>. Our expert team of engineers and designers help transform the conceptual ideas into 3D Models, Assemblies, Parts, Shop Drawings, etc. that aid in reducing operational and overhead costs. 
+						<br><br>
+						We have executed projects for manufacturers, product design companies and engineering consultants in the USA, UK, Australia, Europe and Canada. With our experience of 12+ years in this industry, we have successfully developed a track record of creating unique product design and analyze complex design calculations for our clients that help them to get timely deliverables of the project.
+					</div>
+				</div>				
+			</div>
+		</div>
+	</section>
+	<section class="service_sec">
+		<div class="counter1300">
+			<div class="our_service_title">Our Services</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon9.png" alt="3D Modeling Services">
+					<h3><a href="3d-modeling-services.php">3D Modeling<br>Services</a></h3>
+					<div class="home_snipet">
+						Tesla Mechanical Designs assist you in transforming conceptual ideas, 2D drawings and sketches into detailed 3D Models for developing 3D prototypes of the product, machine parts and assemblies for multiple industries.
+					</div>
+					<div class="w100"><a href="3d-modeling-services.php" class="morebtn">Read More</a></div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon3.png" alt="CAD Drafting Services">
+					<h3><a href="mechanical-drafting-services.php">CAD Drafting<br>Services</a></h3>
+					<div class="home_snipet">
+						We excel in executing detailed and high precision Mechanical Drawings, Paper to CAD Conversion and Drafting Services for manufacturing industry, heavy machinery and product designing firms. 
+					</div>
+					<div class="w100"><a href="mechanical-drafting-services.php" class="morebtn">Read More</a></div> 
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon5.png" alt="Product Design Services">
+					<h3><a href="product-design-services.php">Product Design<br>Services</a></h3>
+					<div class="home_snipet">
+						Tesla has expertise in developing a product or part of a product based on given requirements that include DFM prototype, moldings, etc. in 2D and 3D formats.
+					</div>
+					<div class="w100"><a href="product-design-services.php" class="morebtn">Read More</a></div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon4.png" alt="Mechanical Design Services">
+					<h3><a href="mechanical-design-services.php">Mechanical Design<br>Services</a></h3>
+					<div class="home_snipet">
+						We have design experts who work on complex machine design and development projects. We help them design components, parts and assemblies with an extensive feature to improve the performance.
+					</div> 
+					<div class="w100"><a href="mechanical-design-services.php" class="morebtn">Read More</a></div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon1.png" alt="Reverse Engineering Services">
+					<h3><a href="mechanical-engineering-analysis-services.php">Engineering Analysis<br>Services</a></h3>
+					<div class="home_snipet">
+						Tesla provides high-end solutions for reducing project timelines, optimize the design process by carrying out calculations like stress analysis, CFD, FEA, load calculations, etc. of a product or components.
+					</div>
+					<div class="w100"><a href="mechanical-engineering-analysis-services.php" class="morebtn">Read More</a></div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon6.png" alt="Sheet Metal Design Services">
+					<h3><a href="sheet-metal-design-services.php">Sheet Metal Design<br>Services</a></h3>
+					<div class="home_snipet">
+						We lay profound technical knowledge in creating sheet metal designs, shop drawings, nesting, etc. for heavy machinery and automotive industries.
+					</div>
+					<div class="w100"><a href="sheet-metal-design-services.php" class="morebtn">Read More</a></div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<!--<img src="images/icon2.png" alt="Reverse Engineering Services">-->
+					<img src="images/icon7.png" alt="Reverse Engineering Services">
+					<h3><a href="reverse-engineering.php">Reverse Engineering<br>Services</a></h3>
+					<div class="home_snipet">
+						Tesla Mechanical Designs delivers detailed CAD Model and drawings from physical object or laser scans in quick turnaround time. We focus on improvising the design and manufacturability aspects. 
+					</div>
+					<div class="w100"><a href="reverse-engineering.php" class="morebtn">Read More</a></div> 
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="services_boxs">
+					<img src="images/icon8.png" alt="Millwork Drafting Services">
+					<h3><a href="millwork-drafting-services.php">Millwork Drafting<br>Services</a></h3>
+					<div class="home_snipet">
+						We excel in delivering exterior and interior surface finishes of decorative items such as kitchen cabinets, retail shop cabinets, etc. as per industry specific design standards. 
+					</div>
+					<div class="w100"><a href="millwork-drafting-services.php" class="morebtn">Read More</a></div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+<section class="coreparallax bgcore w100">
+	<div class="counter1300">
+		<div class="w100">
+			<div class="col-md-3">
+				<h2 class="coretitle">Core Values</h2>
+			</div>
+			<div class="col-md-9">
+				<div class="">
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic1.png" alt="Innovation"><br>Innovation</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic2.png" alt="Integrity"><br>Integrity</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic3.png" alt="Accountability"><br>Accountability</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic4.png" alt="Commitment"><br>Commitment</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic5.png" alt="Efficiency"><br>Efficiency</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic6.png" alt="Sustainable Growth"><br>Sustainable Growth</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic7.png" alt="Collaboration"><br>Collaboration</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="corebox">
+							<img src="images/ic8.png" alt="Customizable Solutions"><br>Customizable Solutions</div>
+					</div>
+				</div>
+			</div>
+		</div>		
+	</div>
+</section>
+<section class="w100 mbt50">
+	<div class="container">
+        <div class="">
+        	<div class="col-md-12 text-center"><h2 class="testimonial">Client's Testimonials</h2></div>
+            <div class="col-md-12">
+                <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                    <!-- Carousel Slides / Quotes -->
+                    <div class="carousel-inner text-center">
+                        <!-- Quote 1 -->
+                        <div class="item active">
+                            <blockquote>
+                                <div class="">
+                                    <div class="col-sm-8 col-sm-offset-2">
+                                        <p>Tesla Mechanical Designs has collaboratively looked upon meeting our requirements to complete the product design of electric kettle to be used for multiple purposes with innovative and unique shapes given to it. We are competent with their knowledge and skilled team members.</p>
+                                        <small>Drake Evans</small>
+                                    </div>
+                                </div>
+                            </blockquote>
+                        </div>
+                        <!-- Quote 2 -->
+                        <div class="item">
+                            <blockquote>
+                                <div class="">
+                                    <div class="col-sm-8 col-sm-offset-2">
+                                        <p>Tesla provided the expertise of high-end engineering solutions that helped take our product to an extremely new level from sketches to essential manufacturing files.</p>
+                                        <small>Joseph Henderson</small>
+                                    </div>
+                                </div>
+                            </blockquote>
+                        </div>
+                        <!-- Quote 3 -->
+                        <div class="item">
+                            <blockquote>
+                                <div class="">
+                                    <div class="col-sm-8 col-sm-offset-2">
+                                        <p>Tesla helped us visualize products; experience in designing the product and understanding our conceptual idea have helped us achieve great success.</p>
+                                        <small>Daniel Cowell</small>
+                                    </div>
+                                </div>
+                            </blockquote>
+                        </div>
+                    </div>
+                    <!-- Bottom Carousel Indicators -->
+                   
+                    <!-- Carousel Buttons Next/Prev -->
+                    <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+                    <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+	
+
+<footer>
+	<div class="footer_cont">
+		<div class="footer_text">Create the design, don’t just imagine
+			<div class="w100 footerb"><a href="contact-us.php">Reach out to us</a> about your project; we let our work speak for itself.</div></div>
+		<div class="w100">
+			<div class="w33footer">
+				<span>USA</span><br>
+				1 Dayton Dr 5D Edison <br>NJ 08820
+				<br>
+				<span class="contury">Office: </span> <a href="tel:4169079430">416 907 9430</a>
+			</div>
+			<div class="w33footer">
+				<span>Australia</span><br>
+				4/432,Middle borough <br>Road Blackburn 3130
+				<br>
+				<span class="contury">Office: </span> <a href="tel:0386521136">038 652 1136</a>
+				<!--<br> <span class="contury">Mobile: </span> <a href="tel:0431745425">04 3174 5425</a>-->
+			</div>
+			<div class="w33footer">
+				<span>UK</span><br>
+				108 Romney Drive Enfield <br>London,EN3 6DX
+				<br>
+				<span class="contury">Office: </span> <a href="tel:03330119045">03330119045</a>
+			</div>
+			<div class="w33footer">
+				<span>India</span><br>
+				303 – Indraprasth Corporate Anand Nagar Road, Prahladnagar Ahmedabad – Gujarat, India
+				<br>
+				<span class="contury">Office: </span> <a href="tel:07940399940" >+91 79 4039 9940</a>
+			</div>
+		</div>
+		<div class="w100 footer_social">
+			<div class="float-l"><span class="contury">Mail Us on:</span> <a href="mailto:info@teslamechanicaldesigns.com">info@teslamechanicaldesigns.com</a></div>
+			<div class="float-r">Follow us on: <!--<a href="#"><img src="images/fb.png" width="25px" alt="Facebook"></a> <a href="https://twitter.com/designs_tesla"><img src="images/tw.png" width="25px" alt="Twitter"></a>--> <a href="https://www.linkedin.com/company/tesla-mechanical-designs" target="_blank"><img src="images/in.png" width="25px" alt="Linked In"></a></div>
+		</div>
+		<div class="w100 text-center copy">© 2021 Tesla Mechanical Designs All rights reserved.</div>
+	</div>
+</footer>
+
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Get a Quote</h4>
+      </div>
+      <div class="modal-body">
+			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+			<form method="post" name="contactform" action="form_submitions.php" >
+			  <div class="w100">
+				<input type="text" name="name"  id="exampleInputEmail1" placeholder="Your Name" required>
+			  </div>
+			  <div class="w100">
+				<input type="email" name="email"  id="exampleInputPassword1" placeholder="E-mail" required>
+			  </div>
+			  <div class="w100">
+				<input type="text" name="phone" id="exampleInputPassword2" placeholder="Phone No" required>
+			  </div>
+			  <div class="form-group">
+				<select name="country" id="exampleInputPassword3">
+				  <option>United States</option>
+				  <option>Canada</option>
+				  <option>Australia</option>
+				  <option>United Kingdom</option>
+				  <option>UAE</option>
+				  <option>India</option>
+				  <option>Other</option>
+				</select>
+			  </div>
+			  <div class="w100">
+				<textarea name="message" id="exampleInputmessage" placeholder="Message" required></textarea>
+			  </div>
+			  <div class="w100">
+				   <!--<div class="row">
+        				<div class="col-sm-8"><input type="text" name="captcha_added_code" class="form-control" id="captcha_added_code" placeholder="captcha"></div>
+        				<div class="col-sm-4"><img src="captcha.php" /></div>
+        			</div>-->
+        			<div id="rc-imageselect" style="width: 100%; float: left;">
+					<div class="g-recaptcha" data-sitekey="6LdWgnkaAAAAAPf5exzZWJxRMX7kQH5F0NUj3dbV"></div>
+				  </div>
+			  </div>
+			  <div class="w100 text-left">
+				<button type="submit"  name="Submit" value="Submit" class="btn white_btn btn-primary col-sm-12">Submit</button>
+				<input type="hidden" name="ip" value=''/>
+				<input type="hidden" name="curpage" value=''/>
+			  </div>									  
+			</form>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<!-- Owl Carousel Assets -->
+<link href="css/owl.carousel.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/responsive.css">
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.min.css">
+
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-12813216-39"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-12813216-39');
+</script>-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5Z6JS7C');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.fancybox.min.js"></script>
+<script src="js/easyResponsiveTabs.js"></script>
+<script src="js/wow.min.js"></script>
+ <script src="js/owl.carousel.js"></script>
+<script>
+ new WOW().init();
+</script>
+
+<script>
+	$(document).ready(function() { 
+	  $("#owl-demo").owlCarousel({	 
+	      autoPlay: 3000, //Set AutoPlay to 3 seconds	 
+	      items : 3,
+	      itemsDesktop : [1199,3],
+	      itemsDesktopSmall : [979,3],
+	      responsive:{
+	      	0: {items: 1},
+	      	479: {items: 1},
+	      	767: {items: 2},
+	      	979: {items: 3}
+    	 }	 
+	  });	 
+	});
+</script>
+
+<script>
+	$(window).scroll(function() {    
+    var scroll = $(window).scrollTop();
+	    if (scroll >= 100) {
+	        $(".topheader").addClass("fixheader");
+	    } else {
+	        $(".topheader").removeClass("fixheader");
+	    }
+	}); //missing );
+</script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+        
+        jQuery('#mainmenu').on('click', function(event) {        
+               jQuery('#mainmenucontent').toggle('show');
+        });
+        jQuery('#servicemobi2').on('click', function(event) {        
+               jQuery('#servicemobi2c').toggle('show');
+        });
+        jQuery('#blog').on('click', function(event) {        
+               jQuery('#blogs').toggle('show');
+        });
+
+      });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        //Horizontal Tab
+        $('#tab').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            closed: 'accordion', // Start closed if in accordion view
+            tabidentify: 'hor_1', // The tab groups identifier
+            activate: function(event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#nested-tabInfo');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
+    });
+</script>
+
+<script>
+	var slideIndex = 0;
+	showSlides();
+	function showSlides() {
+	  var i;
+	  var slides = document.getElementsByClassName("mySlides");
+	  var dots = document.getElementsByClassName("dot");
+	  for (i = 0; i < slides.length; i++) {
+	    slides[i].style.display = "none";  
+	  }
+	  slideIndex++;
+	  if (slideIndex > slides.length) {slideIndex = 1}    
+	  for (i = 0; i < dots.length; i++) {
+	    dots[i].className = dots[i].className.replace(" active", "");
+	  }
+	  slides[slideIndex-1].style.display = "block";  
+	  dots[slideIndex-1].className += " active";
+	  setTimeout(showSlides, 4000); // Change image every 2 seconds
+	}
+</script>
+
+<script type="text/javascript">
+	var a = 0;
+	$(window).scroll(function() {
+
+	  var oTop = $('#counter').offset().top - window.innerHeight;
+	  if (a == 0 && $(window).scrollTop() > oTop) {
+	    $('.counter-value').each(function() {
+	      var $this = $(this),
+	        countTo = $this.attr('data-count');
+	      $({
+	        countNum: $this.text()
+	      }).animate({
+	          countNum: countTo
+	        },
+	        {
+	          duration: 2000,
+	          easing: 'swing',
+	          step: function() {
+	            $this.text(Math.floor(this.countNum));
+	          },
+	          complete: function() {
+	            $this.text(this.countNum);
+	            //alert('finished');
+	          }
+
+	        });
+	    });
+	    a = 1;
+	  }
+	});  
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Tesla Mechanical Designs",
+  "url": "https://www.teslamechanicaldesigns.com/",
+  "description": "We are experts in executing detailed and high precision mechanical designs for global clients. Tesla excels in 3d modeling of machines or components, Mechanical Drafting services, product design services, CAD design services, Reverse engineering services, sheet metal design services and mechanical engineering analysis services.",
+  "logo": "https://www.teslamechanicaldesigns.com/images/logo-tesla.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1 416 907 9430",
+    "contactType": "customer service",
+    "contactOption": "HearingImpairedSupported",
+    "areaServed": ["US","GB"],
+    "availableLanguage": "en-US"
+  },
+  
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "303, Indraprasth Corporate Anand Nagar Road, Prahladnagar ",
+    "addressLocality": "Ahmedabad ",
+    "addressRegion": "Gujarat",
+    "postalCode": "380015",
+    "addressCountry": "India"
+  }, 
+  
+  "sameAs": [
+    "https://www.linkedin.com/company/tesla-mechanical-designs"
+  ]
+}
+</script>
+
+
+
+</body>
+</html>
