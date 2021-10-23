@@ -1,0 +1,446 @@
+
+@font-face {font-family: 'Karla'; src: url('../fonts/karla-italic.woff2') format('woff2'),
+        url('../fonts/karla-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url('../fonts/karla-regular.woff') format('woff2'),
+        url('../fonts/karla-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url('../fonts/karla-bold.woff') format('woff2'),
+        url('../fonts/karla-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('../fonts/futurapt-bold.woff') format('woff2'),
+        url('../fonts/futurapt-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('../fonts/futurapt-heavy.woff') format('woff2'),
+        url('../fonts/futurapt-heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Futura PT Demi';
+    src: url('../fonts/futurapt-demi.woff') format('woff2'),
+        url('../fonts/futurapt-demi.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('../fonts/futurapt-medium.woff') format('woff2'),
+        url('../fonts/futurapt-medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('../fonts/futurapt-lightobl.woff') format('woff2'),
+        url('../fonts/futurapt-lightobl.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('../fonts/futurapt-light.woff') format('woff2'),
+        url('../fonts/futurapt-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+}
+
+* {font-family: 'Karla'; font-size: 19px;}
+.site-header {margin: 0px; padding: 0px;}
+.container1146 {max-width:1146px; margin:0 auto;}
+.topheader {padding:0; width:100%; float: left; border-bottom:1px solid #424242;}
+.headerwhite {background: #eee !important; text-align: right; width: 100%; float: left;}
+
+header {position: fixed; z-index: 999; background: rgba(29, 30, 49, 0.9); width: 100%; float: left;}
+.callheader {}
+.callheader a{color:#000; font-size: 12px; text-decoration: none; font-weight: bold; margin-right: 12px;}
+.header_mail {color: #000; font-size: 12px; font-weight: 600; margin-right: 5px;}
+.topbtn {background: linear-gradient(to right, #f80503 0%, #ff7d09 100%); padding: 7px 15px; color: #fff; font-weight: 700;}
+.topbtn:hover {background: linear-gradient(to right, #ff7d09 0%, #f80503 100%); text-decoration: none; padding: 7px 15px; color: #fff; font-weight: 700;}
+.headerlogo {float: left; width: 13%;}
+.middelheader {width: 85%; float: left;}
+
+.toggle,
+[id^=drop] {
+  display: none;
+}
+
+/* Giving a background-color to the nav container. */
+nav { 
+  margin:0;
+  padding: 0;
+}
+
+
+/* Since we'll have the "ul li" "float:left"
+ * we need to add a clear after the container. */
+
+nav:after {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+/* Removing padding, margin and "list-style" from the "ul",
+ * and adding "position:reltive" */
+nav ul {
+  float: right;
+  padding:0;
+  margin:0;
+  list-style: none;
+  position: relative;
+  }
+  
+/* Positioning the navigation items inline */
+nav ul li {
+  margin: 0px;
+  display:inline-block;
+  float: left;  
+  border-right: 1px solid #444;
+  }
+
+/* Styling the links */
+nav a {
+  display:block;
+  padding:20px 20px;  
+  color:#FFF !important;
+  font-size:18px;
+  text-decoration:none;
+}
+
+nav ul ul li {border-bottom: 1px dashed #444; background: #000; border-right: 0px solid #444;}
+nav ul ul li a {padding:12px 20px; line-height: 20px; font-size: 16px;}
+
+
+nav ul li ul li:hover { background: #000000; }
+
+/* Background color change on Hover */
+nav a:hover { 
+  color: #fff !important; 
+  text-decoration: none;
+}
+
+/* Hide Dropdowns by Default
+ * and giving it a position of absolute */
+nav ul ul {
+  display: none;
+  position: absolute; 
+  /* has to be the same number as the "line-height" of "nav a" */
+  top: 60px; 
+}
+  
+/* Display Dropdowns on Hover */
+nav ul li:hover > ul {
+  display:inherit;
+}
+  
+/* Fisrt Tier Dropdown */
+nav ul ul li {
+  width:250px;
+  float:none;
+  display:list-item;
+  position: relative;
+}
+
+/* Second, Third and more Tiers 
+ * We move the 2nd and 3rd etc tier dropdowns to the left
+ * by the amount of the width of the first tier.
+*/
+nav ul ul ul li {
+  position: relative;
+  top:-60px;
+  /* has to be the same number as the "width" of "nav ul ul li" */ 
+  left:-1px; 
+}
+
+  
+/* Change ' +' in order to change the Dropdown symbol */
+li > a:after { content:  ''; }
+li > a:only-child:after { content: ''; }
+
+
+/* Media Queries
+--------------------------------------------- */
+
+@media all and (max-width : 767px) {
+
+  .dis {display: none !important;}
+  .flotr {float: right; background:#000 !important; font-size: 16px !important;}
+
+  nav a {padding: 12px 20px; line-height: 20px;}
+
+  nav {
+    margin: 0;
+  }
+  label {margin-bottom: 0px; line-height: 20px;}
+
+
+  /* Hide the navigation menu by default */
+  /* Also hide the  */
+  .toggle + a,
+  .menu {
+    display: none;
+  }
+  .toggle + a, .menu li .toggle + a {display: block;}
+
+  /* Stylinf the toggle lable */
+  .toggle {
+    display: block;
+    padding:12px 20px;  
+    color:#FFF;
+    font-size:16px;
+    text-decoration:none;
+    border:none;
+    cursor: pointer;
+    font-weight: normal;
+  }
+
+  .toggle:hover {
+  }
+
+  /* Display Dropdown when clicked on Parent Lable */
+  [id^=drop]:checked + ul {
+    display: block;
+  }
+
+  /* Change menu item's width to 100% */
+  nav ul li {
+    display: block;
+    width: 100%;
+    }
+
+  nav ul ul .toggle,
+  nav ul ul a {
+    padding: 0 40px;
+  }
+
+  nav ul ul ul a {
+    padding: 0 80px;
+  }
+
+  nav a:hover,
+  nav ul ul ul a {
+    background-color: #000000;
+  }
+  
+  nav ul li ul li .toggle,
+  nav ul ul a,
+  nav ul ul ul a{
+    padding:14px 20px;  
+    color:#FFF;
+    font-size:17px; 
+  }
+  
+  
+  nav ul li ul li .toggle,
+  nav ul ul a {
+    background-color: #212121; 
+  }
+
+  /* Hide Dropdowns by Default */
+  nav ul ul {
+    float: none;
+    position:static;
+    color: #ffffff;
+    /* has to be the same number as the "line-height" of "nav a" */
+  }
+    
+  /* Hide menus on hover */
+  nav ul ul li:hover > ul,
+  nav ul li:hover > ul {
+    display: none;
+  }
+    
+  /* Fisrt Tier Dropdown */
+  nav ul ul li {
+    display: block;
+    width: 100%;
+  }
+
+  nav ul ul ul li {
+    position: static;
+    /* has to be the same number as the "width" of "nav ul ul li" */ 
+
+  }
+
+}
+
+@media all and (max-width : 330px) {
+  nav ul li {
+    display:block;
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+.w100 {width: 100%; float: left;}
+.rightheader {float: right; width: 15%; text-align: right;}
+.rightheader a{background: #e9490a; margin: 7px; display: inline-block; color: #fff; padding: 8px 20px; text-decoration: none; font-family: 'Futura PT Demi'; font-weight: 600; font-size: 18px;}
+
+/* Shutter In Horizontal */
+.hvr-shutter-in-horizontal {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  background: #444444;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-shutter-in-horizontal:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #444444;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  -webkit-transform-origin: 50%;
+  transform-origin: 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-shutter-in-horizontal:hover, .hvr-shutter-in-horizontal:focus, .hvr-shutter-in-horizontal:active {
+  color: white;
+}
+.hvr-shutter-in-horizontal:hover:before, .hvr-shutter-in-horizontal:focus:before, .hvr-shutter-in-horizontal:active:before {
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+}
+
+.custom-menu-class {width: 100%; float: left; text-align: center;}
+.custom-menu-class ul {margin: 0px; padding:0px 0px;}
+.custom-menu-class li {list-style: none; display: inline-block; padding: 14px 20px; font-family: 'Futura PT'; position: relative;}
+.custom-menu-class li a{font-family: 'Futura PT'; font-weight: 500; font-size: 19px; color: #000;}
+.custom-menu-class ul li > ul {display: none; margin-top: 14px;}
+.custom-menu-class ul li:hover > ul {
+    display: block;
+    position: absolute;
+    background-color: #f5f5f5;
+    line-height: 30px;
+    z-index: 9999999;
+    width: 250px;
+    padding: 0px;
+}
+.sub-menu li {text-align: left; padding: 0 0 0 10px; width: 100%; border-bottom: #CCC 1px solid; border-right: #CCC 1px solid;}
+.sub-menu li a {color: #000000; width: 100%; display: inline-block; font-size: 15px; line-height: 35px;}
+
+.footers {width: 100%; float: left; background: #1f1d1d; padding-top: 60px;}
+.text-center {text-align: center;}
+.footer_cont {max-width: 1146px; margin: 0px auto;}
+.footer_text {font-family: 'Futura PT'; font-weight: 900; color: #fff; font-size: 63px; line-height: 45px; }
+.footerb {color: #fff; font-family: 'Futura PT'; font-weight: 900; font-size: 30px; line-height: 75px; text-decoration: none; margin-bottom: 30px; padding-bottom: 30px; border-bottom: 1px solid #40414d;}
+.footerb a {color: #e9490a; font-family: 'Futura PT'; font-weight: 900; font-size: 30px; line-height: 75px; text-decoration: none;}
+.w33footer {width: 25%; float: left; color: #fff;}
+.w33footer a{color: #fff;}
+.w33footer span {font-family: 'Futura PT'; font-weight: 900; color: #fff; font-size: 29px; padding-bottom: 25px; display: inline-block; }
+.footer_social {border-top: 1px solid #40414d; border-bottom: 1px solid #40414d; padding:15px 0; margin:15px 0;}
+.float-l {float: left; color: #fff;}
+.float-l a{color: #fff; text-decoration: none;}
+.float-r {float: right; color: #fff;}
+.float-r a{color: #fff; text-decoration: none;}
+.copy {font-size: 16px; color: #fff;}
+.contury {font-size: 16px !important; color: #e9490a !important; padding-bottom: 0px !important;}
+
+h1:not(.site-title)::before, h2::before {height: 0px; margin: 0; display: none;}
+.posttext h2 {margin: 0px; padding: 0px; font-size: 18px; font-family: 'Futura PT'; font-weight: 500;}
+.posttext h2 a {font-family: 'Futura PT'; font-weight: 500; font-size: 30px; color: #000;}
+.readmore a{float: left; background: #444444; padding: 5px 15px; color: #fff; font-family: 'Futura PT'; font-weight: 500; font-size: 16px;}
+.readmore a:hover {background: #e9490a;}
+
+.p70 {padding: 120px 0 70px 0; float: left; width: 100%}
+
+.mainpost {width: 100%; float: left; border-bottom: 1px solid #e2e2e2; margin-bottom: 15px; padding-bottom: 15px;}
+
+.leftsidebar {width: calc(100% - 315px); float: left; margin-right: 15px;}
+.rightsidebar {width: 300px; float: left; background: #f2f2f2;}
+.rightsidebar ul {margin-right: 15px;}
+.rightsidebar ul li {padding-bottom: 15px; line-height: 18px; border-bottom: 1px solid #c5c5c5;}
+.rightsidebar ul li a {font-size: 14px; font-weight: normal; color: #000;}
+
+.postimg {width: 300px; float: left;}
+.posttext {width: calc(100% - 325px); float: left; margin-left: 25px;}
+
+.site-content {overflow: visible;}
+.singleh2 {font-family: 'Futura PT'; color: #e9490a; font-weight: 500; font-size: 30px; margin: 0px;}
+.dates {font-size: 15px; color: #888; padding: 10px 0;}
+
+.widget-title {font-family: 'Futura PT'; font-weight: 500; font-size: 30px; margin: 0px;}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .posttext {width: 100%; float: left; margin-left:0px;}
+  .postimg {width: 100%; float: left;}
+  .postimg img {width: 100%;}
+  .leftsidebar {width: calc(100% - 330px); float: left; margin-left: 15px; margin-right: 15px;}
+  .leftsidebar ul {float: left; width: 100%; margin: auto 0;}
+  .footers {padding: 60px 2% 0 2%;}
+}
+@media only screen and (max-width: 767px) {
+  .posttext {width: 100%; float: left; margin-left:0px;}
+  .postimg {width: 100%; float: left;}
+  .postimg img {width: 100%;}
+  .leftsidebar {width: 96%; float: left; margin-left: 2%; margin-right: 2%;}
+  .leftsidebar ul {float: left; width: 100%; margin: auto 0;}
+  .rightsidebar {width: 96%; float: left; background: #f2f2f2; margin: 0px 2%;}
+  
+  .rightheader {display: none;}
+  .headerlogo {width: 40%; padding: 20px 0;}
+  .footers {padding: 60px 2% 0 2%;}
+  .w33footer {width: 100%;}
+  .footer_text {font-size: 38px; line-height: 35px;}
+  .footerb a {line-height: 35px;}
+  .headerwhite {display: none;}
+}
+
+
