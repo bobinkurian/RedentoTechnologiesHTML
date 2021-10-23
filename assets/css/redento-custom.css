@@ -72,12 +72,87 @@ color: #FFF !important;
 .NoMargin{
 	margin: 0px !important;
 }
+.noPaddingRight{
+	padding-right: 0px;
+}
 .footerWrapper{
 	padding-bottom: 60px;
 }
 .WhiteBG{
 	background-color: #FFF !important;
 }
+.margintop80px{
+	margin-top: 80px !important;
+}
+.marginbottom50px{
+	margin-bottom: 50px !important;
+}
+#specializations ul{
+	list-style:square !important;
+}
+#specializations ul > li,#specializations ul > li:hover{
+color: #322424 !important;
+font-size: 16px !important;
+}
+.customTitleHeader {
+	width: auto;
+	height: 40px;
+	line-height: 40px;
+	font-size: 49px;
+	margin-bottom: 60px;
+	margin-top: 20px;
+}
+.customTitleHeader::before{
+	content: " ";
+	border-left: 10px solid #322424;
+	height: 40px;
+	font-size: 49px;
+	margin-right: 10px;
+} 
+.ourProductWrapper{
+	height: 360px !important;
+	margin-bottom: 30px !important;
+	margin-bottom: 30px !important;
+	overflow: hidden !important;
+	border:1px solid #acacac !important;
+	box-shadow: 0 0 10px gray;
+	transition: ease .25s; 
+    -webkit-transition: ease .25s;
+}
+.ourProductMargin{
+	margin-top: 30px!important;
+	margin-bottom: 30px !important;
+}
+.ourProductDescription{
+	border-left: 1px solid #999;
+	height: 360px !important;
+	background-color: #EEE !important;
+	box-shadow: 0 0 10px gray;
+}
+.ourProductDescription p{
+	line-height: 22px !important;
+}
+.ourProductWrapper:hover{
+	cursor: pointer !important;
+	transform: scale(1.01);
+	cursor: pointer;
+}
+.ourProductImage{
+	height: 300px !important;
+}
+.ourProductHeader{
+	color: #e9490a !important;
+	font-size: 36px !important;
+}
+
+
+
+
+
+
+
+
+
 @media only screen and (min-width: 768px)  and (max-width: 900px) 
 {     
 	.PopularProductBg {
