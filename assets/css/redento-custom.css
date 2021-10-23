@@ -72,6 +72,9 @@ color: #FFF !important;
 .NoMargin{
 	margin: 0px !important;
 }
+.paddingLeft15px{
+	padding-left: 15px !important;
+}
 .noPaddingRight{
 	padding-right: 0px !important;
 }
@@ -86,6 +89,15 @@ color: #FFF !important;
 }
 .WhiteBG{
 	background-color: #FFF !important;
+}
+.textaliginRight{
+	text-align: right !important;
+}
+.textaliginLeft{
+	text-align: left !important;
+}
+.productPriceValue{
+	padding-left: 5px;
 }
 .margintop80px{
 	margin-top: 80px !important;
@@ -150,9 +162,51 @@ font-size: 16px !important;
 .ourProductPrice{
 	color: #e9490a !important;
 }
+.productWrapper{
+	margin-top: 100px;
+}
+.productPrice{
+	margin-top: 20px !important;
+}
+.productPrice td, .productPrice td *{
+	line-height: 24px !important;
+	font-size: 16px !important;
+}
+.productPriceColor{
+	color: #e9490a !important;
+}
+.productPrice td .productSavedPrice{
+	color: #e9490a !important;
+	font-size: 14px !important;
+}
+.productInStock{
+	color: green !important;
+}
+.productSpecification{
 
-
-
+}
+.productSpecification ul{
+	list-style:disc !important;
+}
+.productSpecification ul li:hover{
+	color: inherit;
+}
+.productButtonPannel{
+	padding:15px !important;
+	margin-bottom: 100px;
+}
+.productBuyButton{
+	padding:15px !important;
+	background-color: rgb(0, 95, 0) !important;
+	color: #FFF !important;
+	text-decoration: none  !important;
+}
+.productBuyButton:hover{
+	background-color: rgb(0, 73, 0) !important;
+}
+.strikeText{
+	text-decoration:line-through !important;
+}
 @media only screen and (min-width: 768px)  and (max-width: 900px) 
 {     
 	.PopularProductBg {
