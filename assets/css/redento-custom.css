@@ -72,6 +72,9 @@ color: #FFF !important;
 .NoMargin{
 	margin: 0px !important;
 }
+.NoMarginBottom{
+	margin-bottom: 0px !important;
+}
 .paddingLeft15px{
 	padding-left: 15px !important;
 }
@@ -206,6 +209,16 @@ font-size: 16px !important;
 }
 .strikeText{
 	text-decoration:line-through !important;
+}
+.userLoginWrapper{
+	margin-top: 100px !important;
+}
+.userLoginForm{
+	margin-top: 20px !important;
+}
+.formLabel{
+	font-size: 14px !important;
+	line-height: 12px !important;
 }
 @media only screen and (min-width: 768px)  and (max-width: 900px) 
 {     
