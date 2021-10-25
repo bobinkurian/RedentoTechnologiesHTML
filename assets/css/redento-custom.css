@@ -224,6 +224,45 @@ font-size: 16px !important;
 	font-size: 14px !important;
 	line-height: 12px !important;
 }
+.shopItemContainer{
+	padding-top: 50px !important;
+	padding-bottom: 150px !important;
+}
+.shopItemWrapper {
+    background: #fff;
+    font-size: 17px;
+    color: #596277;
+    min-height: 300px;
+    line-height: 32px;
+    padding: 45px 4%;
+    float: left;
+    width: 100%;
+    text-align: center;
+	border:1px solid #AAA;
+	margin-top: 25px !important;
+	cursor: pointer;
+}
+.shopItemWrapper:hover {
+	box-shadow: 0 0 10px #8e8f98;
+}
+.shopItemWrapper img{
+	height: 250px !important;
+}
+.shopItemOfferWrapper{
+	position: absolute;
+	width:50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: red;
+	color:#fff;
+	top:5px;
+	right: 5px;
+	text-align: center;
+	padding-top:10px;
+	line-height: 18px !important;
+	font-size: 14px !important;
+}
+
 @media only screen and (min-width: 768px)  and (max-width: 900px) 
 {     
 	.PopularProductBg {
